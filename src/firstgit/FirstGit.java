@@ -18,6 +18,7 @@ public class FirstGit {
         System.out.println("Hello Java!");
         
         int x = 5;
+        int y = 6;
     }
     
 }
