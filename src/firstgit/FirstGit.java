@@ -22,6 +22,8 @@ public class FirstGit {
         for (int i = 0; i < 3; i++){
             System.out.println("the counter is: " + i);
         }
+        
+        int z = 0;
     }
     
 }
